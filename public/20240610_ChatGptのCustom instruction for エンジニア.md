@@ -5,7 +5,7 @@ tags:
   - 生成AI
   - ChatGPT
 private: false
-updated_at: '2024-06-10T23:00:36+09:00'
+updated_at: '2024-06-10T23:05:16+09:00'
 id: 0a0a87c20cb8777f1aca
 organization_url_name: null
 slide: false
@@ -14,7 +14,7 @@ ignorePublish: false
 # はじめに
 調べものするときによくChatGPTを使用しています。
 より精度を上げる方法として、「Custom instructions」があります。
-ここで、「Custom instructions」の設定方法とおすすめの設定をまとめました！
+「Custom instructions」の設定方法とおすすめの設定をまとめました！
 
 # Custom Instructionsの設定方法
 
@@ -160,7 +160,7 @@ I prefer responses that are professional and concise, with code examples adherin
 私は、コードの例をクリーンなコード原則に固執するコードの例で、プロフェッショナルで簡潔な応答を好みます。コードの各部分を説明するコメントを含めます。一般的なエラーメッセージとそのソリューション、デバッグのヒント、およびパフォーマンスの改善に関するアドバイスを提供します。さらに、特にアジャイルとDevOpsのプラクティスに関連するプロジェクト管理とチームのコラボレーションに関するアドバイスをお願いします。
 ```
 
-`私はITエンジニアです。` の時のおすすめのカスタム指示をChatGPTに聞いてみました。
+`私はITエンジニアです。` という情報を与えた時の、おすすめのカスタム指示をChatGPTに聞いてみました。
 よくなりそうな言葉が並べられています笑
 開発する際、よくありそうなエラーの提示をしてくれるのは助かります。
 　
@@ -192,8 +192,7 @@ I prefer responses that are professional and concise, with code examples adherin
 -それができますよ
 ```
 
-最後はネタ系のカスタム指示です。
-実際に精度は上がります。
+最後はネタ系のカスタム指示です。（精度は上がります。）
 
 参考文献
 
