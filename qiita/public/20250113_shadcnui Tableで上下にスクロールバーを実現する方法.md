@@ -1,12 +1,12 @@
 ---
 title: shadcn/ui Tableで上下にスクロールバーを実現する方法
 tags:
+  - table
   - React
   - shadcn
-  - Table
 private: false
-updated_at: ""
-id: null
+updated_at: '2025-01-13T16:15:08+09:00'
+id: 83f6bd04c9c3c25000be
 organization_url_name: null
 slide: false
 ignorePublish: false
@@ -17,11 +17,11 @@ ignorePublish: false
 下記のような列が多い テーブル を扱う時に、`overflow` を用いて、左右に移動させるスクロールバーを表示させることがあると思います。
 ![scroll_1.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2603981/79edcd30-395c-da37-a118-eecd181320ef.png)
 
-こちらは、`shadcn/ui` の Table を用いて テーブル を表示させており、default で`overflow-auto`がついているので、テーブル 下部にスクロールバーが表示されます。
+こちらは、`shadcn/ui` の `Table` を用いて テーブル を表示させており、default で`overflow-auto`がついているので、テーブル 下部にスクロールバーが表示されます。
 ![scroll_2.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2603981/a9627110-da9d-6ca5-0d3a-016304c2c448.png)
 
-テーブル によっては、行が多すぎて、横にスクロールさせたいけど、テーブル の一番下まで行ってスクロールさせるのめんどくさいというパターンが出てくると思います。
-そこで、 `shadcn/ui` の `Table` を用いて、テーブル上下に左右にスクロールできるバーを表示させる方法をまとめました。
+テーブル によっては、行が多すぎて、横にスクロールさせたいけど、テーブル の一番下まで行ってスクロールさせるのがめんどくさいというパターンが出てくると思います。
+そこで、 `shadcn/ui` の `Table` を用いて、テーブル上下部に、左右にスクロールできるバーを表示させる方法をまとめました。
 
 # 2. 前提
 
