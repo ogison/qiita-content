@@ -1,13 +1,12 @@
 ---
 title: shadcn/ui と React Hook Form で実装する動的Form
 tags:
-  - "shadcn"
-  - "react-hook-form"
-  - "react"
-
+  - React
+  - react-hook-form
+  - shadcn
 private: false
-updated_at: ""
-id: null
+updated_at: '2024-12-13T09:03:00+09:00'
+id: 16cab00232c19c504073
 organization_url_name: null
 slide: false
 ignorePublish: false
