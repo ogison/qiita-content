@@ -5,7 +5,7 @@ tags:
   - React
   - shadcn
 private: false
-updated_at: '2025-01-13T16:15:08+09:00'
+updated_at: '2025-01-18T11:46:58+09:00'
 id: 83f6bd04c9c3c25000be
 organization_url_name: null
 slide: false
@@ -161,7 +161,7 @@ const [tableScrollWidth, setTableScrollWidth] = React.useState<number>(0);
 const [topScrollbarWidth, setTopScrollbarWidth] = React.useState<number>(0);
 ```
 
-## ① テーブル上部のスクロールバーを更新
+## ② テーブル上部のスクロールバーを更新
 
 テーブルのサイズが変更されたときに、スクロールバーの表示状態を更新します。テーブル下部のスクロールバーが表示されるときのみ、テーブル上部のスクロールバーを表示させるようにして、テーブル下部の長さと同じ長さのスクロールバーを上部に表示させます。
 
