@@ -5,7 +5,7 @@ tags:
   - Gemini
   - GeminiCodeAssist
 private: false
-updated_at: "2025-03-04T12:49:48+09:00"
+updated_at: '2025-03-04T12:49:48+09:00'
 id: 7f75e1091e730a9ccac6
 organization_url_name: null
 slide: false
