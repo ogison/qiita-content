@@ -1,10 +1,10 @@
 ---
-title: AIで開発するVibeCoding：6つのカテゴリに分類
+title: AIで開発するVibeCoding：5つのカテゴリに分類
 tags:
   - AI
   - VibeCoding
 private: false
-updated_at: '2025-04-22T01:24:52+09:00'
+updated_at: '2025-04-22T01:39:03+09:00'
 id: 1a022efceee178c804a6
 organization_url_name: null
 slide: false
@@ -25,7 +25,7 @@ https://arstechnica.com/ai/2024/10/google-ceo-says-over-25-of-new-google-code-is
 
 # Vibe Coding ツール
 
-VibeCoding ツールは、以下の 6 カテゴリに分類することができます。
+VibeCoding ツールは、以下の 5 カテゴリに分類することができます。
 
 ### 1. AI 統合 IDE 型
 
@@ -59,16 +59,9 @@ UI・DB・デプロイまですべて自動で構築できる開発ツールで�
 - [Lazy AI](https://getlazy.ai/)
 - [Tempo](https://www.tempo.new/)
 - [Lovable](https://lovable.dev/)
-
-### 4. 専門特化型
-
-UI や API など、特定の領域に特化して生成を行うタイプです。
-代表ツール
-
 - [v0](https://v0.dev/)
-- [Apidog](https://apidog.com/jp/)
 
-### 5. エージェント実行型
+### 4. エージェント実行型
 
 チケットを渡すだけで、設計 → 実装 → テスト → PR 提出まで行う高度なツール群です。
 
@@ -80,7 +73,7 @@ UI や API など、特定の領域に特化して生成を行うタイプです
 - [Copilot Workspace](https://githubnext.com/projects/copilot-workspace)
 - [Cline](https://cline.bot/?utm_source=chatgpt.com)
 
-### 6. CLI エージェント型型
+### 5. CLI エージェント型型
 
 ターミナル上でコードの生成や編集、テスト、デプロイなどを行います。
 
