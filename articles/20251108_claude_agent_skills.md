@@ -1,5 +1,5 @@
 ---
-title: "開発の定型作業をClaude Code Agent Skillsに落とし込む"
+title: "定型開発作業をClaude Code Agent Skillsに落とし込む"
 emoji: "🤖"
 type: "tech"
 topics: ["anthropic", "claude", "AgentSkills", "automation", "開発効率化"]
